@@ -41,10 +41,6 @@ Abre tu navegador y accede a `http://localhost:3000` para ver la aplicación en 
 - Curso seguido: [Next.js App Router Course](https://nextjs.org/learn)
 - Plataforma: Next.js Official Website
 
-## Mejoras y personalización
-
-Si realizaste mejoras o agregaste funcionalidades adicionales, puedes mencionarlas aquí.
-
 ## Contribución
 
 Si deseas contribuir al proyecto, siéntete libre de hacer un fork y enviar un pull request.
